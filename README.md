@@ -3,7 +3,7 @@
 
 **Description:**
 Have you been dreaming of becoming a DJ? Then this simple app will help you. Don't overthink just grab it and use:)
-### [LIVE](https://vladyslav-vasylenko.github.io/Beatmaker/)
+### [LIVE](https://vladyslav.github.io/Weather/)
 **Technologies used:**
  - HTML
  - CSS
